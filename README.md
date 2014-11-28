@@ -6,7 +6,7 @@ Fetches mod category ids from the nexusmods and updates MO's metafiles to match 
 **REQUIREMENTS:**
 * Python 3.x
 * BeautifulSoup (bs4)
-
+* Firefox cookies database with nexusmods login cookies *(For example: %APPDATA%/Mozilla/Firefox/Profile/<profile_id>/cookies.sqlite)*
 
 **USAGE:**
 
