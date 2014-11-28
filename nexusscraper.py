@@ -7,9 +7,7 @@ import urllib.request
 from bs4 import BeautifulSoup
 from io import StringIO
 import sqlite3
-import os
 import re
-import sys
 
 class NexusScraper():
     opener       = None
