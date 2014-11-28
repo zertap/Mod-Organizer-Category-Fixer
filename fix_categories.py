@@ -65,7 +65,7 @@ for metafile, data in metadata.items():
     modid    = data["General"]["modid"]
     category = data["General"]["category"]
 
-    if only_set_missing and int(category) != int(-1):
+    if only_set_missing and str(-1) not in str(category):
         continue
     if int(modid) <= int(0):
         continue
