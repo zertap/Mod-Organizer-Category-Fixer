@@ -7,8 +7,6 @@ import os
 import shutil
 from nexusscraper import NexusScraper
 
-from pprint import pprint
-
 ###----------------USER-VARIABLES----------------###
 
 #USE FORWARD SLASHES OR DOUBLE BACKSLASHES IN PATHS!#
