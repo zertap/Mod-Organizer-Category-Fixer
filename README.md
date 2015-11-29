@@ -14,5 +14,5 @@ Fetches mod category ids from the nexusmods and updates MO's metafiles to match 
 2. Run fix_categories.py
 
 =========================
-*Mod Organizer is a tool to manage Skyrim mods, but if you are looking at this, you already should know that.
+*Mod Organizer is a tool to manage mods for various games (Skyrim for example), but if you are looking at this, you already should know that.
 Or maybe you are lost.*
